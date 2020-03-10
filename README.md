@@ -1,2 +1,2 @@
 # test-repository
-Test repository, SLM 10.03.2020
+Test repository, SLM March 10th, 2020
